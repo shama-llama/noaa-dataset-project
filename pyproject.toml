@@ -5,6 +5,7 @@ description = "Project for analyzing the NOAA dataset"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "folium>=0.20.0",
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.3",
     "numpy>=2.3.1",
