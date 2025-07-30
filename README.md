@@ -70,20 +70,24 @@ This project uses `uv` for package management. `uv` is an extremely fast Python 
 
 ## References
 
-[1] National Oceanic and Atmospheric Administration, National Data Buoy Center, U.S. Department of Commerce, “Observation Data Descriptions.” *NOAA NDBC*. Accessed: July 10, 2025. [Online]. Available: [https://www.ndbc.noaa.gov/obsdes.shtml](https://www.ndbc.noaa.gov/obsdes.shtml).
+> [1] National Oceanic and Atmospheric Administration, National Data Buoy Center, U.S. Department of Commerce, “Observation Data Descriptions.” *NOAA NDBC*. Accessed: July 10, 2025. [Online]. Available: [https://www.ndbc.noaa.gov/obsdes.shtml](https://www.ndbc.noaa.gov/obsdes.shtml).
 
-[2] National Oceanic and Atmospheric Administration, National Data Buoy Center, U.S. Department of Commerce, “NDBC Station List.” *NOAA NDBC*. Accessed: July 10, 2025. [Online]. Available: [https://www.ndbc.noaa.gov/to_station.shtml](https://www.ndbc.noaa.gov/to_station.shtml).
+> [2] National Oceanic and Atmospheric Administration, National Data Buoy Center, U.S. Department of Commerce, “NDBC Station List.” *NOAA NDBC*. Accessed: July 10, 2025. [Online]. Available: [https://www.ndbc.noaa.gov/to_station.shtml](https://www.ndbc.noaa.gov/to_station.shtml).
 
-[3] National Oceanic and Atmospheric Administration, National Centers for Environmental Information, U.S. Department of Commerce, “Storm Events Database.” *NOAA NCDC*. Accessed: July 10, 2025. [Online]. Available: [https://www.ncdc.noaa.gov/stormevents/](https://www.ncdc.noaa.gov/stormevents/).
+> [3] National Oceanic and Atmospheric Administration, National Centers for Environmental Information, U.S. Department of Commerce, “Storm Events Database.” *NOAA NCDC*. Accessed: July 10, 2025. [Online]. Available: [https://www.ncdc.noaa.gov/stormevents/](https://www.ncdc.noaa.gov/stormevents/).
 
-[4] The COMET Program, University Corporation for Atmospheric Research. "Wave Types and Characteristics," MetEd. Accessed: July 20, 2025. [Online]. Available: [https://learn.meted.ucar.edu/](https://learn.meted.ucar.edu/).
+> [4] The COMET Program, University Corporation for Atmospheric Research. "Wave Types and Characteristics," MetEd. Accessed: July 20, 2025. [Online]. Available: [https://learn.meted.ucar.edu/](https://learn.meted.ucar.edu/).
 
-[5] J. Perktold, S. Seabold, and J. Taylor, "Statsmodels: Statistical Models and Econometric Tools," Statsmodels.org. Accessed: July 20, 2025. [Online]. Available: [https://www.statsmodels.org/stable/](https://www.statsmodels.org/stable/).
+> [5] J. Perktold, S. Seabold, and J. Taylor, "Statsmodels: Statistical Models and Econometric Tools," Statsmodels.org. Accessed: July 20, 2025. [Online]. Available: [https://www.statsmodels.org/stable/](https://www.statsmodels.org/stable/).
 
-[6] B. Artley, "Time Series Forecasting with ARIMA, SARIMA, and SARIMAX," Towards Data Science, Apr. 26, 2022. Accessed: 20 July 2025. [Online]. Available: [https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6](https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6).
+> [6] B. Artley, "Time Series Forecasting with ARIMA, SARIMA, and SARIMAX," Towards Data Science, Apr. 26, 2022. Accessed: 20 July 2025. [Online]. Available: [https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6](https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6).
 
-[7] W. F. Guthrie, “NIST/SEMATECH e-Handbook of Statistical Methods (NIST Handbook 151).” National Institute of Standards and Technology, 2020. doi: [https://doi.org/10.18434/M32189](https://doi.org/10.18434/M32189). Available: [https://www.itl.nist.gov/div898/handbook/](https://www.itl.nist.gov/div898/handbook/).
+> [7] W. F. Guthrie, “NIST/SEMATECH e-Handbook of Statistical Methods (NIST Handbook 151).” National Institute of Standards and Technology, 2020. doi: [https://doi.org/10.18434/M32189](https://doi.org/10.18434/M32189). Available: [https://www.itl.nist.gov/div898/handbook/](https://www.itl.nist.gov/div898/handbook/).
 
-[8] R. J. Hyndman and G. Athanasopoulos, *Forecasting: Principles and Practice*, 3rd ed. Melbourne, Australia: OTexts, 2021. Accessed: Jul. 20, 2025. [Online]. Available: [https://otexts.com/fpp3/](https://otexts.com/fpp3/).
+> [8] R. J. Hyndman and G. Athanasopoulos, *Forecasting: Principles and Practice*, 3rd ed. Melbourne, Australia: OTexts, 2021. Accessed: Jul. 20, 2025. [Online]. Available: [https://otexts.com/fpp3/](https://otexts.com/fpp3/).
 
-[9] H. Hu, A. J. Van Der Westhuysen, P. Chu, and A. Fujisaki-Manome, “Predicting Lake Erie wave heights and periods using XGBoost and LSTM,” *Ocean Modelling*, vol. 164, p. 101832, Aug. 2021, doi: [10.1016/j.ocemod.2021.101832](https://doi.org/10.1016/j.ocemod.2021.101832).
+> [9] H. Hu, A. J. Van Der Westhuysen, P. Chu, and A. Fujisaki-Manome, “Predicting Lake Erie wave heights and periods using XGBoost and LSTM,” *Ocean Modelling*, vol. 164, p. 101832, Aug. 2021, doi: [10.1016/j.ocemod.2021.101832](https://doi.org/10.1016/j.ocemod.2021.101832).
+
+## License
+
+This project is licensed under the terms of the [MIT](LICENSE) open source license.
