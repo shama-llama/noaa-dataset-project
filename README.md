@@ -1,7 +1,7 @@
 # NOAA Dataset Project
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.7+-darkorange?logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.7+-F7931E?logo=scikit-learn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14.x-red?logo=statsmodels&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.x-green?logo=xgboost&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
