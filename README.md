@@ -28,23 +28,17 @@ The primary outcome of the model comparison is summarized in the performance plo
 
 This project uses `uv` for package management. `uv` is an extremely fast Python package and project manager, written in Rust that can be used as a drop-in replacement for `pip`, `pip-tools`, `pipx`, `poetry`, `pyenv`, `twine`, `virtualenv`.
 
-### Prerequisites
-
-- Python >=3.12.11
-
-- `uv`
+- **`uv` Installation**
 
     ```bash
     curl -LsSf https://astral.sh/uv/install.sh | sh
     ```
 
-### Installation Steps
-
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/shama-llama/noaa-dataset-project.git
-    cd noaa-noaa-dataset-project
+    git clone https://github.com/shama-llama/data-science-assignments.git
+    cd data-science-assignments
     ```
 
 2. **Create a Virtual Environment and Install Dependencies with `uv`:**
