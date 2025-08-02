@@ -16,13 +16,13 @@ The key finding is that for this dataset, the SARIMAX model is provides the best
 
 The primary outcome of the model comparison is summarized in the performance plots below, showing key error metrics (MAPE, MAE, RMSE) and the coefficient of determination (R²) across the four forecast horizons.
 
-![Model Performance Comparison](assets/results.png)  <!-- Replace with the URL to your comparative plot image -->
+![Model Performance Comparison](assets/results.png)
 
-- **Short-Term (1-hr Horizon):** All models, including the naive baseline, perform well due to the high autocorrelation of wave height. The most recent observation is the best predictor.
+- **Short-Term (1-Hour Horizon):**  Because of the high autocorrelation of wave height, all models (including the naive baseline) perform well. The best predictor is the most recent observation.
 
-- **Mid-to-Long-Term (3-12-hr Horizons):** As the forecast horizon increases, the performance of the machine learning models and the persistence baseline degrades. The SARIMAX model consistently maintains the lowest error and is the only model to provide meaningful predictive power (positive R²) at the 12-hour horizon.
+- **Mid-to-Long-Term (3–12-hour Horizons):** As the forecast horizon increases, the performance of the machine learning model and the persistence baseline declines. The SARIMAX model consistently maintains the lowest error and is the only model with significant predictive power (positive R2) at the 12-hour horizon.
 
-- **Feature Importance:** The underperformance of XGBoost is due to its effectiveness being highly dependent on feature engineering. With a limited relevant feature set, it was unable to capture the complex temporal dynamics that SARIMAX handles intrinsically.
+- **Feature Importance:** XGBoost performs poorly since its effectiveness is largely dependent on feature engineering. Its limited set of relevant features prevented it from capturing the complex temporal dynamics that SARIMAX naturally handles.
 
 ## Project Setup
 
